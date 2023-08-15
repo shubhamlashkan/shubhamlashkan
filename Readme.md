@@ -9,7 +9,6 @@ I am a Software Engineer currently working as Salesforce Developer with hands-on
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [ShubhamLashkan](http://shubhamlashkan.com)
 * ✉️  You can contact me at [connect@shubhamlashkan.com](mailto:connect@shubhamlashkan.com)
-* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Salesforce Projects
 
 ### Skills
